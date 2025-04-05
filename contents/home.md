@@ -1,16 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Zzzz0108](https://img.shields.io/badge/Zzzz0108-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Bachelor's Degree in Computer Science, at School of computing, Beijing University of Posts and Telecommunications, China.
 
 #### Email
-sli[at]cumt.edu.cn
+2023211067@bupt.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Beijing University of Posts and Telecommunications, 2023—2027 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Language: Java, Python, C, HTML, CSS, JavaScript
+
+Framework:Vue3, SpringBoot, MyBatis
+
+Tech:Redis
+
+Tools:Tomcat
+
+
 
