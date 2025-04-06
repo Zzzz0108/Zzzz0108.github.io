@@ -1,6 +1,6 @@
 
 
-[![Zzzz0108](https://img.shields.io/badge/Zzzz0108-github-blue?logo=github)](https://github.com/senli1073)
+[![Zzzz0108](https://img.shields.io/badge/Zzzz0108-github-blue?logo=github)](https://github.com/Zzzz0108)
 
 She is currently pursuing a Bachelor's Degree in Computer Science, at School of computing, Beijing University of Posts and Telecommunications, China.
 
